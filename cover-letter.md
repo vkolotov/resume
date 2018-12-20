@@ -6,7 +6,7 @@ Vlad's main speciality is data integration and data processing. He has 10+ years
 ## AWS
 (buzz words: Fargate, ECS, EC2, RDS, S3, Cognito, Athena, Lambda, Docker, Terraform)
 
-#### PoC for Fonterra.
+#### PoC for Fonterra
 The main goal of this exercise is to try to migrate an on-prem system to the AWS cloud. The system is a complex/mature application (5 years old) that consists of multiple main modules: CMS (Silverstripe), API (Java, Tomcat), Mobile Apps (4 hybrid apps), ETL (Pentaho), DB (Postgres). The exercise can be described as the following:
 * Converting the existing modules to be able to run in docker
 * Design/implement docker infrastructure (dockerfiles, networking, volumes etc)
@@ -99,4 +99,13 @@ A DYI project to create a piece of Hi-FI equipment based on Raspberry Pi, high d
 * Playback timeout via linux cron
 
 Source code: https://github.com/vkolotov/tube-amp
+
+## Hobbies
+* FPV Quadcopter racing
+* Mountain biking
+* Microelectronics
+* Billiard
+* Coding
+
+
 
