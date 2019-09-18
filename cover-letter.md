@@ -7,7 +7,7 @@
 Vlad's main speciality is **data integration** and **data processing**.
 He has 10+ years (**15+ years** in Software Engineering/**Java**) hands on experience in various data integration platforms/products
 and some recent exposure to **AWS** and **Salesforce** technology stacks.
-***
+
 **Career goals:** Challenging and innovative projects. Startups. Contracts preferable.
 
 ## Buzz words
